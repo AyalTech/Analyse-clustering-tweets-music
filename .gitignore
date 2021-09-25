@@ -5,3 +5,4 @@ apps/__pycache__/
 *.DS_Store
 .vscode
 secrets.sh
+.DS_STORE
