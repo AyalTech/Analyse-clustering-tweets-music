@@ -1,5 +1,6 @@
 MANIFEST
 build
+.gitignore
 dist
 _build
 docs/man/*.gz
